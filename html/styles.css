@@ -1,0 +1,22 @@
+body {
+    font-family: monospace;
+    background: url(https://w.wallhaven.cc/full/ox/wallhaven-oxll2l.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgba(72, 228, 137, 0.6);
+}
+h1 {
+    color: #FF6B6B;
+    border: 4px dashed #FFC477;
+    text-align: center;
+}
+h3 {
+    color: #7F9EEF;
+}
+h5 {
+    color: #A784C9;
+}
+
+li ol {
+    color: #7F9EEF;
+}
